@@ -1,0 +1,25 @@
+
+
+
+ {
+    "projects": [
+        {
+            "title": "farm lam 1",
+            "images": "imgs/fingerprint.svg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quasi illum dignissimos quae nulla placeat nisi omnis quaerat est aperiam eligendi consectetur dolor porro debitis necessitatibus minus explicabo, voluptatibus numquam."
+
+        },
+        {
+            "title": "farm lam 1",
+            "images": "imgs/fingerprint.svg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quasi illum dignissimos quae nulla placeat nisi omnis quaerat est aperiam eligendi consectetur dolor porro debitis necessitatibus minus explicabo, voluptatibus numquam."
+        },
+        {
+            "title": "farm lam 1",
+            "images": "imgs/fingerprint.svg",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quasi illum dignissimos quae nulla placeat nisi omnis quaerat est aperiam eligendi consectetur dolor porro debitis necessitatibus minus explicabo, voluptatibus numquam."
+        }
+    ]
+ }
+
+ 
